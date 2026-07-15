@@ -1,0 +1,19 @@
+```text
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Carpetas de entornos virtuales (por si acaso creas uno local)
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Configuraciones locales de Streamlit
+.streamlit/
